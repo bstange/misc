@@ -2,7 +2,6 @@
 """
 Created on Thu Feb 22 15:21:00 2018
 
-@author: xvnq1898
 """
 
 
